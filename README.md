@@ -1,4 +1,4 @@
-# 🧠 Predição de Risco de Crédito — Projeto de Data Mining
+# 🧠 Projeto de Data Mining
 
 Este projeto tem como objetivo analisar um dataset real de crédito e construir um modelo de Machine Learning capaz de prever bons e maus pagadores.
 
